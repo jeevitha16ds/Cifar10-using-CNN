@@ -1,1 +1,1 @@
-# cifar10-using-ANN
+# cifar10-using-CNN
